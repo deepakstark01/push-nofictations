@@ -12,4 +12,4 @@ var firebaseConfig = {
   // firebase.initializeApp(firebaseConfig);
   initializeApp(firebaseConfig);
   const app = initializeApp(firebaseConfig);
-export default ini
+export default app
